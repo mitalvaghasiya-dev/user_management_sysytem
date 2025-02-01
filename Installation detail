@@ -1,0 +1,9 @@
+Installation and Setup
+1.Clone the repository:
+2.Navigate to the project directory: cd user-management-system
+3.Install dependencies: npm install
+4.Start the JSON Server: npm run json-server
+-This will start the JSON Server at http://localhost:3000
+-The user data is stored in db.json
+5.Run the Angular application: ng serve
+6.Open the browser and go to: http://localhost:4200
