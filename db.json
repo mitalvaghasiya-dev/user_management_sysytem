@@ -1,0 +1,70 @@
+{
+  "employee": [
+    {
+      "name": "Nita",
+      "email": "nita@gmail.com",
+      "role": "Admin",
+      "id": "3"
+    },
+    {
+      "name": "ghmkjh",
+      "email": "ghjmkhg",
+      "role": "Admin",
+      "id": "6"
+    },
+    {
+      "name": "hgjkmh",
+      "email": "jhkmh",
+      "role": "Admin",
+      "id": "7"
+    },
+    {
+      "name": "hjkjhmkjh",
+      "email": "jhkhj",
+      "role": "Admin",
+      "id": "8"
+    },
+    {
+      "name": "hjkhjmkj",
+      "email": "hjkhjk",
+      "role": "Admin",
+      "id": "9"
+    },
+    {
+      "name": "rt",
+      "email": "rtu",
+      "role": "Admin",
+      "id": "10"
+    },
+    {
+      "name": "rtyhrt",
+      "email": "rtyhrt",
+      "role": "Admin",
+      "id": "15"
+    },
+    {
+      "name": "Disha",
+      "email": "disha@gmail.com",
+      "role": "Admin",
+      "id": "16"
+    },
+    {
+      "name": "Mehul",
+      "email": "daaa@gmail.com",
+      "role": "User",
+      "id": "17"
+    },
+    {
+      "name": "Sitara",
+      "email": "YTJYT@gmail.com",
+      "role": "Admin",
+      "id": "18"
+    },
+    {
+      "id": "f2e7",
+      "name": "sddssdsd",
+      "email": "dd@gmail.com",
+      "role": "Admin"
+    }
+  ]
+}
